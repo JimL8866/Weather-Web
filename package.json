@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "weather-web",
+  "version": "1.0.0",
+  "description": "this is a simple weather app showing current weather condition",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J L",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
